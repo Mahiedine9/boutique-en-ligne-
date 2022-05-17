@@ -1,0 +1,72 @@
+
+h1 {
+	text-align: center;
+	background-color: rgb(200,170,170);
+}
+
+div#panier, div#boutique {
+	background-color: rgb(200,170,170);
+}
+
+
+
+/* produits */
+div.produit {
+	background-color:whitesmoke;
+	box-shadow : 0px 0px 6px 2px  inset;
+}
+
+div.produit figure, div.produit div.description {
+	box-shadow : 0px 0px 4px 2px  inset;
+}
+div.produit figure {
+	margin : auto;
+	width : 90%;
+	height : 120px;
+	text-align : center;
+}
+div.produit h4 {
+	color : black;
+}
+
+
+div.produit div.prix {
+	background-color :grey;
+	color : whitesmoke;
+
+}
+
+
+/* controle */
+/* buttons */
+
+button.retirer {
+	box-shadow : 0px 0px 2px 1px;
+
+}
+
+
+.produit div.controle {
+
+	background-color :grey;
+}
+
+
+/* achat */
+.achat {
+
+	box-shadow : 0px 0px 4px 2px inset;
+
+}
+
+.achat h4 {
+
+	color :black;
+
+}
+
+
+#total {
+	background-color : grey;
+
+}

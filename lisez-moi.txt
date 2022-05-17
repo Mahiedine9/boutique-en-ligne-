@@ -1,0 +1,26 @@
+BENIKKEN  Anais & FERDJOUKH Mahiedine
+
+--> Question 01:faite
+--> Question 02:faite 
+Nous avons créé la nouvelle feuille de style nommée boutique.css ou nous avons défini de nouvelles regles css personnalisées .
+--> Question 03:faite 
+--> Question 04:faite
+Nous avons completé le code de la fonction CreateFigureBlock 
+--> Question 05:faite 
+Nous avons completé le code pour mettre en place une gestion evenementielle de saisie des quantités qui declenchera le controle des valeurs via la fonction verifquantity 
+en utilisant un "input.addEventListener("change",verifQuantity);"
+--> Question 06:faite
+Nous avons completé le code de la fonction verifquantity
+--> Question 07:faite
+Nous avons egalement geré l'action declenchée par le bouton de mise en panier et l'aspect visuel du bouton change
+--> Question 08:faite 
+Nous avons redigé la documentation et avons completé le code de la fonction orderproduct qui permet de gerer la remise a 0 de la quantité du produit 
+--> Question 09:faite a moitié 
+Nous avons réussi à ajouter les produits, et a modifier les quantités lorsque le produit existe deja dans le panier , mais nous n'avons pas réussi la partie suppression du panier 
+--> Question 10:faite 
+Nous avons completé le code de la fonction filterdisplaidproducts qui nous permet de rechercher les produits .
+Nous n'avons pas découpé la fonction.
+Le probleme que l'on retrouve , est que nous n'arrivons pas à supprimer le bon produit .
+--> Question 11:faite 
+Nous avons completé le fichier boutique.css afin de personnaliser un peu plus notre travail, nous avons par exemple modifié quelques regles pour optimiser les couleurs et la page d'accueil de cette boutique afin de donner une meilleure image 
+  
